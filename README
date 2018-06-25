@@ -1,2 +1,6 @@
-Linux APIs is test.
-Step 1 who:
+使用man 查看系统调用。
+man man //查看man的使用。
+man -k keyworld //关键词查找帮助文档。
+例：
+man 2 open //查看第二小节（系统调用） open
+man -k file |grep
